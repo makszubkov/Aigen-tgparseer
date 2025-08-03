@@ -11,20 +11,20 @@ Features
 
     Checks availability on:
 
-        Telegram (https://t.me/username)
+ Telegram (https://t.me/username)
 
-        Fragment (https://fragment.com/username/)
+ Fragment (https://fragment.com/username/)
 
 Setup
 
-    Clone the repository:
+Clone the repository:
 
-git clone https://github.com/yourusername/viral-username-generator.git
-cd viral-username-generator
+    git clone https://github.com/yourusername/viral-username-generator.git
+    cd viral-username-generator
 
 Install dependencies:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Add your OpenAI API key:
 Open the script and replace this line:
@@ -35,7 +35,7 @@ Usage
 
 Run the script:
 
-python main.py
+python parsnew.py
 
 It will generate, filter, score, and display available usernames that pass the virality threshold.
 Known Issue
